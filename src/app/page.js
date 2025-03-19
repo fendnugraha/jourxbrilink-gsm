@@ -18,7 +18,7 @@ export default function Home() {
                 <h1 className="text-lg text-white drop-shadow-lg">Jour Apps x BRIlink</h1>
             </div>
             <h1 className="text-6xl sm:text-7xl text-slate-400 drop-shadow-lg font-bold mb-4">
-                THREE <span className="font-normal">KOMUNIKA</span>
+                GSM <span className="font-normal">TRONIK</span>
             </h1>
             <LoginLinks />
         </div>
